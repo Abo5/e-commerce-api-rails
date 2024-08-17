@@ -1,3 +1,4 @@
+![copy_D5DB85D6-164F-4CEE-A174-5E3CBD887B17](https://github.com/user-attachments/assets/65f07b08-1cd6-4280-83db-8ad8d26952d6)
 
 # My Rails API Project
 
