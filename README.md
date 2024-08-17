@@ -129,6 +129,3 @@ For any questions or issues, please contact me at [your-email@example.com](mailt
 ---
 
 Thank you for checking out My Rails API Project! I hope you find it useful for your development needs.
-```
-
-Feel free to replace the placeholders like `your-username` and `your-email@example.com` with your actual information. This `README.md` file provides a comprehensive overview of your project, how to set it up, and how to interact with the API endpoints using Postman.# e-commerce-api-rails
